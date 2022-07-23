@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
-<resources>
-    <Resource id="skelDB" type="javax.sql.DataSource">
-        JdbcDriver org.mariadb.jdbc.Driver
-        JdbcUrl jdbc:mysql://localhost:3306/skelbase
-        UserName skel
-        Password XXXXXX
-    </Resource>
-</resources>
